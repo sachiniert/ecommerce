@@ -1,0 +1,19 @@
+2025-01-07 22:40:52,935 :INFO : pytestsDemo.test_logging :information staement 
+2025-01-07 22:40:52,935 :WARNING : pytestsDemo.test_logging :Someting is in warning mode 
+2025-01-07 22:40:52,935 :ERROR : pytestsDemo.test_logging : A major error has happend 
+2025-01-07 22:40:52,935 :CRITICAL : pytestsDemo.test_logging :Critical issue 
+2025-01-07 22:43:55,955 :DEBUG : pytestsDemo.test_logging :A debug statement is executed 
+2025-01-07 22:43:55,955 :INFO : pytestsDemo.test_logging :information staement 
+2025-01-07 22:43:55,955 :WARNING : pytestsDemo.test_logging :Someting is in warning mode 
+2025-01-07 22:43:55,956 :ERROR : pytestsDemo.test_logging : A major error has happend 
+2025-01-07 22:43:55,956 :CRITICAL : pytestsDemo.test_logging :Critical issue 
+2025-01-07 22:44:20,599 :CRITICAL : pytestsDemo.test_logging :Critical issue 
+2025-01-07 22:59:20,119 :INFO : pytestsDemo.BaseClass :Rahul 
+2025-01-07 22:59:20,119 :INFO : pytestsDemo.BaseClass :yadav 
+2025-01-07 23:01:55,569 :INFO : pytestsDemo.BaseClass :Rahul 
+2025-01-07 23:01:55,569 :INFO : pytestsDemo.BaseClass :yadav 
+2025-01-07 23:03:57,941 :INFO : pytestsDemo.BaseClass :Rahul 
+2025-01-07 23:03:57,941 :INFO : pytestsDemo.BaseClass :yadav 
+2025-01-07 23:12:52,534 :INFO : pytestsDemo.BaseClass :Rahul 
+2025-01-07 23:12:52,535 :INFO : pytestsDemo.BaseClass :yadav 
+2025-01-07 23:12:52,537 :CRITICAL : pytestsDemo.test_logging :Critical issue 
