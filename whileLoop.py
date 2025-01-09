@@ -1,5 +1,4 @@
-a =3
-b=8
-while a <b:
-    continue
-    print("bb")
+a = 3
+b = 3
+sum = a + b
+print(sum)
